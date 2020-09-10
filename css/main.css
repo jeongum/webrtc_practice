@@ -6,3 +6,11 @@ video {
   max-width: 100%;
   width: 320px;
 }
+
+#localVideo {
+  border: 2px solid red
+}
+
+#remoteVideo {
+  border: 2px solid blue
+}
